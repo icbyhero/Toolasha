@@ -1,5 +1,18 @@
 # Changelog
 
+## [3.7.0](https://github.com/Celasha/Toolasha/compare/v3.6.3...v3.7.0) (2026-10-08)
+
+
+### Features
+
+* add 24-hour chat timestamp reformatting ([b00a82c](https://github.com/Celasha/Toolasha/commit/b00a82c843c6f277b6f551122d59fb0253ec5a21))
+* add Buy Missing Labyrinth Supplies button ([21d7c4b](https://github.com/Celasha/Toolasha/commit/21d7c4bfb0f39f2d1c6745f1c9e65a8c4d54ecfe))
+
+
+### Bug Fixes
+
+* stop alchemy history trackers from creating empty sessions on queue reorder ([9c0706f](https://github.com/Celasha/Toolasha/commit/9c0706f92ad67184231204122754944edba9b049))
+
 ## [3.6.3](https://github.com/Celasha/Toolasha/compare/v3.6.2...v3.6.3) (2026-10-07)
 
 ### Bug Fixes
